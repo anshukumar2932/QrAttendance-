@@ -98,5 +98,3 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 
-I've updated the system so that when a QR code is scanned, it will display the student's name and registration number. Let me know if you need any further modifications!
-
