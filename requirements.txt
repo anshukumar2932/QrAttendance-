@@ -1,0 +1,6 @@
+Flask
+pandas
+segno
+openpyxl
+jinja2
+gunicorn
